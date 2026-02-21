@@ -1,0 +1,7 @@
+{
+  "name": "Copy of مقاول بلس - Moqawel Plus",
+  "description": "نربط المقاولين نبني المجتمعات. منصة تجمع بين المقاول الرئيسي ومقاول الباطن لإدارة المشاريع ",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
